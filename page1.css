@@ -1,0 +1,27 @@
+.intro
+{
+    background-color: orange;
+    text-align:left;
+    font:bolder
+    
+}
+.first
+{
+    background-color:wheat;
+    text-align:left;
+
+}
+.identity
+{
+   margin-left:20px;
+}
+
+.Navigation
+{
+    font-size: larger;
+   
+}
+a
+{
+    padding-right: 80px;
+}
